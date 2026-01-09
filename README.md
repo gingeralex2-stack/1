@@ -1,1 +1,1 @@
-requirements
+pyTelegramBotAPI
